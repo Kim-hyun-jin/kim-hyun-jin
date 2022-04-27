@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2> My tech stack </h2>
-https://img.shields.io/static/v1?label=< >&message=<JavaScript>&color=<yellow>
+https://img.shields.io/static/v1?label=&message=JavaScript&color=yellow?style=plastic&logo=appveyor
